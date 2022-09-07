@@ -3,7 +3,6 @@
 ## I am a Penn State University graduate majored in Computer Science and minored in Statistics.
 - 🔭 I am currently working for Clango, a cyber security company.
 - 🔭 I am learning to code more in C/C++ for my development.
-- 🔭 I am looking for full-time opportunities for a recent grad software engineer.
 - 🔭 2022 Goals: Try to make my code more readable and developer friendly.
 <img src="https://github-readme-stats.vercel.app/api?username=deepdc19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
